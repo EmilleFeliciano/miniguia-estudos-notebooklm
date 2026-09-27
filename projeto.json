@@ -1,0 +1,12 @@
+{
+  "projeto": "Caderno Temático — Fundamentos de APIs REST",
+  "plataforma": "DIO",
+  "ferramenta": "NotebookLM",
+  "autoria": "Emille Feliciano",
+  "estrutura": [
+    "README.md",
+    "fontes/fontes.md",
+    "estudos/prompts-e-cicatrizes.md",
+    "estudos/miniguia.md"
+  ]
+}

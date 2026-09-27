@@ -1,0 +1,17 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Ambiente Python, caso seja utilizado futuramente
+__pycache__/
+.venv/
+venv/
